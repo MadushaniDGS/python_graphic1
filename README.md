@@ -1,2 +1,2 @@
-# python_graphic1
+# python_graphic_projects
 Python Turtle Graphics
